@@ -16,4 +16,14 @@
 
 #### 6. Product Card
 
-#### 7. Instagram-user-profile
+#### 7. Instagram User Profile
+
+### Updated Feb 1, 2021
+
+#### 8. Receipt
+
+#### 9. Github Dropdown Menu
+
+#### 10. Input Group
+
+#### 11. Feed

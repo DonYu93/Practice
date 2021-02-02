@@ -27,3 +27,11 @@
 #### 10. Input Group
 
 #### 11. Feed
+
+### Updated Feb 2, 2021
+
+#### 12. Gamil Inbox
+
+#### 13. Music Player
+
+#### 14. Video Player
